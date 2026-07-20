@@ -1,0 +1,29 @@
+CyberDeck Parts List
+
+Motherboard
+Primary: Raspberry Pi Zero 2 W
+Alternate: Raspberry Pi Zero W
+
+RPi Case
+Primary: Raspberry Pi Official Raspberry Pi Zero Case - White/Red
+Micro Center Flushing
+
+NFC Reader
+Tentative: HiLetgo PN532 NFC NXP RFID Module V3 Kit
+https://www.amazon.com/HiLetgo-Communication-Arduino-Raspberry-Android/dp/B01I1J17LC/ref=sr_1_4?crid=173GKSSMKL0VY&dib=eyJ2IjoiMSJ9.Se6aKfFaBVmxCiOj6g_fN9rjveZFyp6fuG1JqOKJipEphGV8sasYUAFHYGM0xXKNxQIvi35sNinMeMN47jBexKtD2lDQkQ3SFskRhcUgfIyDL7tDKKPYEYSnKQXtHGcEV84drA5_e5O90RsfTb-3COY0OHGNy9JIs-WerN31ooge3dpKvMbBNk5tUgOCXfw8g5YKbyW0XcVdKLv1ufaXR5nrKQe5HBcCcJ_IWZckxEI.e7kk_y3h9iJF88S3p7SDLEaCf_xVW9fp2vZPK3uxfAM&dib_tag=se&keywords=rpi+nfc+reader&qid=1784563863&sprefix=rpi+nfc+reade%2Caps%2C166&sr=8-4
+
+Screen w/ speakers
+---
+
+Battery
+Primary: USB Li-Ion Power Bank with 2 x 5V Outputs @ 2.1A - 5000mAh
+Alternate: USB Battery Pack for Raspberry Pi - 10000mAh - 2 x 5V outputs
+
+Cables
+Power: USB to Micro USB
+
+Soldering Iron
+---
+isopropyl alcohol (for cleaning flux after solder)
+flux
+tip tinner and cleaner
